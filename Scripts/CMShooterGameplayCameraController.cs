@@ -19,5 +19,9 @@ namespace MultiplayerARPG.Cinemachine
         {
 
         }
+        public virtual void Recoil(float x, float y)
+        {
+
+        }
     }
 }
